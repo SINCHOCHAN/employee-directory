@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Josie Wu",
+    "image": "/images/1.jpg",
+    "occupation": "Student",
+    "contact": "josie.wu@abc.com"
+  },
+  {
+    "id": 2,
+    "name": "John Chen",
+    "image": "/images/2.jpg",
+    "occupation": "Salesman",
+    "contact": "John.chen@abc.com"
+  },
+  {
+    "id": 3,
+    "name": "Edmond Li",
+    "image": "/images/3.jpg",
+    "occupation": "Manager",
+    "contact": "edmond.li@abc.com"
+  },
+  {
+    "id": 4,
+    "name": "Max Kim",
+    "image": "/images/4.jpg",
+    "occupation": "CEO",
+    "contact": "max.kim@abc.com"
+  },
+  {
+    "id": 5,
+    "name": "Katy Wong",
+    "image": "/images/5.jpg",
+    "occupation": "Market Director ",
+    "contact": "katy.wong@abc.com"
+  },
+  {
+    "id": 6,
+    "name": "Jasmine Ho",
+    "image": "/images/6.jpg",
+    "occupation": "Consultant",
+    "contact": "jasmine.ho@abc.com"
+  },
+  {
+    "id": 7,
+    "name": "Alice Chen",
+    "image": "/images/7.jpg",
+    "occupation": "Software Developer",
+    "contact": "alice.chen@abc.com"
+  },
+  {
+    "id": 8,
+    "name": "Chelsea Tam",
+    "image": "/images/8.jpg",
+    "occupation": "Teacher",
+    "contact": "chelsea.tam@abc.com"
+  },
+  {
+    "id": 9,
+    "name": "Tony Guan",
+    "image": "/images/9.jpg",
+    "occupation": "Radiographer",
+    "contact": "tony.guan@abc.com"
+  },
+  {
+    "id": 10,
+    "name": "Hudson Xu",
+    "image": "/images/10.jpg",
+    "occupation": "Lawyer",
+    "contact": "hudson.xu@abc.com"
+  },
+  {
+    "id": 11,
+    "name": "Ryan Liang",
+    "image": "/images/11.jpg",
+    "occupation": "Dental Hygienist",
+    "contact": "ryan.liang@abc.com"
+  },
+  {
+    "id": 12,
+    "name": "Tiffany Wei",
+    "image": "/images/12.jpg",
+    "occupation": "Pharmacy Technician",
+    "contact": "tiffany.wei@abc.com"
+  }
+]

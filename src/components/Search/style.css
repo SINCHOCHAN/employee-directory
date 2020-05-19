@@ -1,0 +1,13 @@
+.searchBlock {
+    height: 50px;
+    width: 100%;
+}
+
+.inputBox {
+    width: 50%;
+}
+
+.blockItem {
+    display: inline-block;
+    margin: 0px 20px;
+}
