@@ -2,15 +2,16 @@
 
 # This is the link to deploy. Using Heruko to run the app.
 
+https://morning-savannah-56811.herokuapp.com/
 
 
 # This is the link to the github repo:
 
-
+ https://github.com/SINCHOCHAN/employee-directory
 
 # This is the link to the live website:
 
-
+ https://sinchochan.github.io/employee-directory/
 
 # How to run (screenshot)
 
